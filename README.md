@@ -5,8 +5,8 @@ Meu nome é Magdiel Santos, e sou um entusiasta de tecnologia apaixonado por apr
 ## Apresentação
 
 - 🌍 Moro em Recife|PE|BR.
-- 👨‍💻 Atualmente, estou cursando o 4º perido de Analise e desenvolvimento de sistemas.
-- 💼 Atualmente faço parte do programa de estagio em Data Engineering da empresa Compass UOL.
+- 👨‍💻 Atualmente, sou formado Analise e desenvolvimento de sistemas.
+- 💼 Atualmente sou engenheiro de dados trainee na empresa Compass UOL.
 
 ## Linguagens em Estudo
 
