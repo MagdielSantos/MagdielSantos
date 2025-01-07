@@ -1,18 +1,18 @@
 # Olá! 👋
 
-Meu nome é Magdiel Santos, e sou um entusiasta de tecnologia apaixonado por aprender e experimentar coisas novas. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e explorar várias tecnologias.
+Meu nome é Magdiel Santos, e sou um entusiasta de tecnologia apaixonado por aprender e experimentar coisas novas. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos na área de dados.
 
 ## Apresentação
 
 - 🌍 Moro em Recife|PE|BR.
-- 👨‍💻 Atualmente, sou formado Analise e desenvolvimento de sistemas.
-- 💼 Atualmente sou engenheiro de dados trainee na empresa Compass UOL.
+- 👨‍💻 Atualmente, sou formando em Analise e desenvolvimento de sistemas.
+- 💼 Atualmente Estou a procura de uma oportunidade
 
 ## Linguagens em Estudo
 
-Atualmente, estou aprofundando meu conhecimento nas seguintes linguagens de programação:
+Atualmente, estou aprofundando meu conhecimento na seguinte linguagens de programação:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Ferramentas/Serviços/Frameworks em Estudo
 
