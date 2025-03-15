@@ -1,12 +1,12 @@
-Hello! 👋
+#Hello! 👋
 My name is Magdiel Santos, and I am a technology enthusiast passionate about learning and experimenting with new things. Currently, I work as a Full Stack Developer and continue improving my skills and knowledge in the field of data.
 
-About Me
-🌍 I live in Recife, PE, Brazil.
-👨‍💻 I am graduating in Systems Analysis and Development.
-💼 Currently working as a Full Stack Developer.
+##About Me
+-🌍 I live in Recife, PE, Brazil.
+-👨‍💻 I am graduating in Systems Analysis and Development.
+-💼 Currently working as a Full Stack Developer.
 
-Programming Languages
+##Programming Languages
 I am currently deepening my knowledge in the following programming languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
