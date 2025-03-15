@@ -10,7 +10,7 @@ Programming Languages
 I am currently deepening my knowledge in the following programming languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)          
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)          
 
 Tools/Services/Frameworks
 I am always exploring new tools, services, and frameworks. Currently, I am working with:
