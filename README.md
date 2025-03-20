@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Magdiel Santos, and I am a technology enthusiast passionate about learning and experimenting with new things. Currently, I work as a **Full Stack Developer** and continue improving my skills and knowledge in the field of data.
+My name is Magdiel Santos, and I am a technology enthusiast passionate about learning and experimenting with new things. Currently, I work as a **Full Stack Developer** and continue improving my skills and knowledge in the field of data
 
 ## About Me
 
