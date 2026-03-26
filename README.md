@@ -1,31 +1,58 @@
-# Hello! 👋
+# Hi, I'm Magdiel Santos 👋
 
-My name is Magdiel Santos, and I am a technology enthusiast passionate about learning and experimenting with new things. Currently, I work as a **Full Stack Developer** and continue improving my skills and knowledge in the field of data.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=444444&width=435&lines=Data+Engineer+%7C+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Python+%7C+TypeScript+%7C+GCP)](https://git.io/typing-svg)
 
-## About Me
+I'm a developer with 2+ years of experience, currently specialized in **Data Engineering**. I love building reliable data pipelines and scalable solutions — and I'm always exploring what's next in the data world.
 
-- 🌍 I live in Recife, PE, Brazil.  
-- 👨‍💻 I am graduating in Systems Analysis and Development.  
-- 💼 Currently working as a **Full Stack Developer**.  
+---
 
-## Programming Languages
+## 🧑‍💻 About Me
 
-I am currently deepening my knowledge in the following programming languages:  
+- 📍 Recife, PE, Brazil
+- 🎓 Graduating in Systems Analysis and Development
+- 🏗️ Currently working with **Google Cloud Functions (GCF)**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🔍 Focused on data engineering, pipelines and cloud architecture
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+---
 
-## Tools/Services/Frameworks  
+## 🛠️ Tech Stack
 
-I am always exploring new tools, services, and frameworks. Currently, I am working with:  
+**Languages**
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Data Engineering**
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=magdielsantos&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/magdielsantos)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/magdielsantos)
